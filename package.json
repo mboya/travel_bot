@@ -1,0 +1,20 @@
+{
+  "name": "travel_bot",
+  "version": "1.0.0",
+  "description": "bot that can give you travel/car hire information before travel",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "bot",
+    "travel",
+    "car",
+    "hire",
+    "hire",
+    "car",
+    "flight"
+  ],
+  "author": "mboya berry",
+  "license": "ISC"
+}
